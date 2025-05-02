@@ -82,11 +82,6 @@ This project is open-source and free to use.
 Developed by **Rushikesh** 🚀
 
 
-Feel free to replace `yourusername` with your actual GitHub username in the **Installation** section.
-
-Let me know if you need any further changes! 😊
-
-
 
 
 
